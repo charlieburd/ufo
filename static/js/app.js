@@ -29,7 +29,7 @@ function handleClick() {
         //check to see if a date was entered and filter the data using that date
     if (date) {
         //apply 'filter' to the table data to obly keep the rows where the 'datetime'value matches the filter value
-        filteredData = filteredData.filter(row => row.dattime === date);
+        filteredData = filteredData.filter(row => row.datetime === date);
     }
 
     //rebuild the table using the filtered data. @NOTE: if no date was entered, then filteredData will just be the original tableData
