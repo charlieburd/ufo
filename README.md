@@ -17,6 +17,6 @@
 
 ## Summary
 
-#### A drawback that I can see happening is the user not realizing that their search has already been processed, without a button. They may try hitting enter or reloading the website in an attempt to display the results they are searching for. Also, if you only fill out some of the search fields, the placeholders in the empty fields remain. Which could confuse the user for what is actually being searched for.
+#### A drawback that I can see happening is the user not realizing that their search has already been processed, without a button. They may try hitting enter or reloading the website in an attempt to display the results they are searching for. 
 
-#### Something I would like to add is a Comments search box. I think this could be done quite easily by having the code scroll through the comments and displaying any results that had matching keywords. I would also like to add a feature that would erase the placeholders once any of the fields have begun to be filled out. That would get rid of the drawback I had mentioned above.
+#### Something I would like to add is a Comments search box. I think this could be done quite easily by having the code scroll through the comments and displaying any results that had matching keywords. I would also like to add a feature that would erase the placeholders once any of the fields have begun to be filled out. Right now it could be confusing for the user what is actaully being searched for, because placeholders remain in emply filder boxes.
